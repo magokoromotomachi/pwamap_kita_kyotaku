@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J77",
+  "range": "'スポットデータ'!A1:J75",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -18,22 +18,13 @@
       "2022/05/11 14:46:34",
       "オフィス",
       "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.874083",
-      "139.655129",
-      "まごころ浦和元町",
-      "048-885-5700",
-      "",
-      "mago_motomachi",
-      "https://geolonia.com"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
       "35.95084",
       "139.625671",
       "ケアプランセンター　今羽の森",
-      "048-778-7330"
+      "048-778-7330",
+      "",
+      "mago_motomachi",
+      "https://geolonia.com"
     ],
     [
       "",
@@ -214,15 +205,6 @@
       "139.621964",
       "ラウンド＆ケア居宅介護支援事業所中央",
       "050-6865-7203"
-    ],
-    [
-      "",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.920078",
-      "139.612686",
-      "サライケアステーション",
-      "048-716-3591"
     ],
     [
       "",
